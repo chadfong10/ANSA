@@ -5,5 +5,5 @@ neighborhood simulated annealing for the heterogeneous fleet vehicle routing pro
 multiple cross-docks. Computers & Operations Research, 129, 105205.  
 [https://doi.org/10.1016/j.cor.2020.105205](https://doi.org/10.1016/j.cor.2020.105205)
 
-main.cpp: the process of ANSA.  
-head.cpp & head.h: functions for generating the initial solution and for calculating the objective value.
+- main.cpp: the process of ANSA.  
+- head.cpp & head.h: functions for generating the initial solution and for calculating the objective value.
